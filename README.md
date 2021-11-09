@@ -7,3 +7,4 @@ Users will add their desired city into the search bar, once added they will hit 
     ```md
     ![alt text](assets/weather.png)
     ```
+https://stephjosie.github.io/WeatherDashboard/
