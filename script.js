@@ -23,7 +23,7 @@ function renderSearchHistory() {
         var btn = document.createElement('button');
         btn.setAttribute('type', 'button');
         btn.setAttribute('aria-controls', 'today forecast');
-        btn.classList.add('history-btn', 'btn-history');
+        btn.classList.add('btn-history', 'btn-history');
 
         // `data-search` allows access to city name when click handler is invoked
         btn.setAttribute('data-search', searchHistory[i]);
